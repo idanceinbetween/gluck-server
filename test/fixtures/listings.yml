@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  expiry: MyString
+  item_id: MyString
+  exchange1_datetime: MyString
+  exchange1_location: MyString
+  exchange2_datetime: MyString
+  exchange2_location: MyString
+
+two:
+  title: MyString
+  expiry: MyString
+  item_id: MyString
+  exchange1_datetime: MyString
+  exchange1_location: MyString
+  exchange2_datetime: MyString
+  exchange2_location: MyString

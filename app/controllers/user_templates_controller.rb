@@ -1,0 +1,2 @@
+class UserTemplatesController < ApplicationController
+end

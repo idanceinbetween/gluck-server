@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item_id: MyString
+  gifter_id: MyString
+  recipient_id: MyString
+  recipient_stat: MyString
+  giver_stat: MyString
+  date: MyString
+  tag_id: MyString
+
+two:
+  item_id: MyString
+  gifter_id: MyString
+  recipient_id: MyString
+  recipient_stat: MyString
+  giver_stat: MyString
+  date: MyString
+  tag_id: MyString
